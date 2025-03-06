@@ -7,5 +7,5 @@
 ## HW1
 - 檔名250218G_AI.ipynb
 
-## HW1
+## HW2
 - 檔名250225G_AI.ipynb
