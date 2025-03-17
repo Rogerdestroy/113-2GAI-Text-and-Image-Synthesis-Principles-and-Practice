@@ -7,3 +7,6 @@
 ## Homework
 - [HW-Week 1](https://github.com/Rogerdestroy/113-2GAI-Text-and-Image-Synthesis-Principles-and-Practice/blob/main/250218G_AI.ipynb)
 - [HW-Week 2](https://github.com/Rogerdestroy/113-2GAI-Text-and-Image-Synthesis-Principles-and-Practice/blob/main/250225G_AI.ipynb)
+- [HW-Week 3](https://github.com/Rogerdestroy/113-2GAI-Text-and-Image-Synthesis-Principles-and-Practice/blob/main/250304G_AI.ipynb)
+- [HW-Week 4]()
+
